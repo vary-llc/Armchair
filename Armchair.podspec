@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Armchair"
-  s.version      = "1.0"
+  #s.version      = "1.0"
   s.summary      = "A simple yet powerful App Review Manager for iOS and OSX in Swift"
 
   s.description  = <<-DESC
@@ -76,7 +76,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/UrbanApps/Armchair.git", :tag => "1.0" }
+  s.source       = { :git => "https://github.com/UrbanApps/Armchair.git" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
